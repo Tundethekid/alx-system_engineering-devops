@@ -5,3 +5,4 @@ script that displays current directory contents in a long format
 script that displays current directory contents, including hidden files (starting with .). Using the long format
 script that displays current directory contents in long format, with user and group ID numerically and hidden files
 script that creates a directory named my_first_directory in the /tmp/ directory
+script that moves the file betty from /tmp/ to /tmp/my_first_directory
